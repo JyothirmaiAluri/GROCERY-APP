@@ -4,7 +4,7 @@
  * gradle plugin from the resource data it found. It
  * should not be modified by hand.
  */
-package androidx.slidingpanelayout;
+package androidx.swiperefreshlayout;
 
 public final class R {
     private R() {}
